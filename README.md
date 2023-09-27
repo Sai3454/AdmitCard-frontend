@@ -16,3 +16,19 @@ OTP Verification Screen:
 * If you haven't recived the OTP then click on "resend OTP" button.
 * If the OTP you have entered is not correct then it shows respective SnackBar.
 * If you enetered Correct OTP then it redirects you to the Home Page.
+
+App Images: 
+All screen images with video has been given in the App Inages folder.
+
+Inatallation:
+
+Open your open folder in vscode or respected code editor and redirect to your project folder in terminal.
+run git init and "git clone https://github.com/Sai3454/AdmitCard-frontend.git".
+
+Frontend :
+1. cd into the project(admitcardfrontend) and install dependencies by running "npm install"
+2. run "npm run start"
+   
+Backend :
+1. cd into the project(admitcardfrontend) and install dependencies by running "npm install"
+2. run "node index.js"
