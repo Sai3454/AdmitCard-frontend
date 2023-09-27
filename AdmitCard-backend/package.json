@@ -1,0 +1,18 @@
+{
+  "name": "admitcard-backend",
+  "version": "1.0.0",
+  "description": "this is backend code for sending and verifying otp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^3.9.3",
+    "africastalking": "^0.6.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
